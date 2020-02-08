@@ -9,7 +9,7 @@
 ## How to create a page for a new language pair
 
 - Create a new repository using https://github.com/smartool/smartool-template/generate
-- Adjust these lines: https://github.com/smartool/smartool-template/blob/gh-pages/index.html#L273-L293
+- Adjust these lines: https://github.com/smartool/smartool-template/blob/gh-pages/index.html#L273-L294
 
 
 ## Dependencies and terms of use
