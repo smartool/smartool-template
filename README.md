@@ -10,6 +10,7 @@
 
 - Create a new repository using https://github.com/smartool/smartool-template/generate
 - Adjust these lines: https://github.com/smartool/smartool-template/blob/gh-pages/index.html#L299-L320
+- Note that the data files have to be in CSV format (comma-separated values)
 - Get an API code from https://app.responsivevoice.org and adjust https://github.com/smartool/smartool-template/blob/gh-pages/index.html#L17
 
 
